@@ -1,8 +1,9 @@
 //pipe_test.c
-//Trevor Gudmundsen
-//Robert Gonzales
-//Natalia 
+//Trevor Gudmundsen 999675892
+//Robert Gonzales   912431466
+//Natalia Sandoval  998436223
 
+//Program 1 Problem 1
 //program which pipes a given user input through three
 //processes, returns to the first one and kills all of them
 
